@@ -31,6 +31,8 @@ Folder: `CSV/`
 
 Folder: `Pillows/`
 
+---
+
 ### 4. NumPy
 - Array creation (1D, 2D, multi-dimensional arrays)
 - Indexing, slicing, and reshaping arrays
@@ -41,3 +43,16 @@ Folder: `Pillows/`
 - File operations using NumPy (`.npy`, `.csv`)
 
 Folder: `NumPy/`
+
+---
+
+### 5. Pandas
+- Creating and manipulating Series and DataFrames
+- Reading and writing CSV, Excel, and JSON files
+- Data filtering, sorting, and indexing
+- Handling missing data (NaN values)
+- GroupBy operations and aggregations
+- Basic data cleaning and transformation
+- Merging and joining DataFrames
+
+Folder: `Pandas/`

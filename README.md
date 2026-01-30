@@ -30,3 +30,14 @@ Folder: `CSV/`
 - Image format conversion and basic manipulation
 
 Folder: `Pillows/`
+
+### 4. NumPy
+- Array creation (1D, 2D, multi-dimensional arrays)
+- Indexing, slicing, and reshaping arrays
+- Element-wise mathematical operations
+- Statistical functions (mean, median, standard deviation, etc.)
+- Random number generation
+- Boolean masking and filtering
+- File operations using NumPy (`.npy`, `.csv`)
+
+Folder: `numPy/`

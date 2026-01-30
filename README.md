@@ -40,4 +40,4 @@ Folder: `Pillows/`
 - Boolean masking and filtering
 - File operations using NumPy (`.npy`, `.csv`)
 
-Folder: `numPy/`
+Folder: `NumPy/`

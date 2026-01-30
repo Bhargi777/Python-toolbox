@@ -56,3 +56,12 @@ Folder: `NumPy/`
 - Merging and joining DataFrames
 
 Folder: `Pandas/`
+
+---
+
+### 6. Matplotlib
+- Line plots, bar charts, scatter plots, and histograms
+- Subplots and basic data visualization
+- Plot labeling and titles
+
+Folder: `Matplotlib/`

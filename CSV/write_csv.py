@@ -12,3 +12,4 @@ data = [
 with open("output.csv", "w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     writer.writerows(data)
+ 

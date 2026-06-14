@@ -6,7 +6,7 @@ qr = qrcode.QRCode(
     box_size=10,
     border=4,
 )
-qr.add_data("https://www.google.com")
+qr.add_data("https://nss-attendance-two.vercel.app/")
 qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white")
 img.save("example_qr.png")
